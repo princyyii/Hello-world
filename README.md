@@ -1,2 +1,6 @@
-# Hello-world
-Just for learning 
+#include <studio.h>
+int main() 
+{
+printf("Hello World");
+} 
+
